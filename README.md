@@ -1,3 +1,8 @@
-# sfdat32
-A repo for data science projects
-By Rick Wuebker
+# Rick Wuebker
+
+- Quantitative Trader @ Sentinet Investment Management
+- Programming languages include Go, Python & JavaScript
+
+
+
+
